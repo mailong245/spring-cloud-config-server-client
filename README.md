@@ -1,4 +1,4 @@
-# SPRING CLOUD CONFIG CLIENT-SERVER EXCAMPLE
+# SPRING CLOUD CONFIG CLIENT-SERVER EXAMPLE
 
 ## 1. Định nghĩa client-server config:
  - Sử dụng Spring cloud bus
